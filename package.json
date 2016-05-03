@@ -1,0 +1,18 @@
+{
+  "name": "example-q",
+  "version": "1.0.0",
+  "description": "examples for q promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "q",
+    "promise"
+  ],
+  "author": "brandonxiang",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
